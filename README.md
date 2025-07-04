@@ -118,6 +118,6 @@ This project is licensed under the MIT License.
 
 If you found this useful, please ⭐ the repo or share it with others!
 
-![Blinkit Dashboard](./Blinkit%20.png)
+![Blinkit Dashboard](https://github.com/Praveenkumar-p-gif/Blinkit-Grocery/blob/main/Blinkit/Blinkit%20.png)
 
 
